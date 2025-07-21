@@ -28,3 +28,4 @@ rustfmt.toml
 csv-kml-tool/test.kml
 csv-kml-tool/*.kml
 csv-kml-tool/*.csv 
+.DS_Store
